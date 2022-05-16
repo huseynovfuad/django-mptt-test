@@ -1,0 +1,5 @@
+Django==2.2.16
+django-cors-headers==3.10.1
+djangorestframework==3.12.4
+django-mptt
+django-filter==21.1
